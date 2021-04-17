@@ -1,9 +1,9 @@
 import React from 'react';
-import s from './Header.module.css';
+import h from './Header.module.css';
 
 const Header = () => {
-    return <header className={s.header}>
-        <img src='https://www.freelogodesign.org/Content/img/logo-ex-7.png' />
+    return <header className={h.header}>
+        <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftwistedchoppers.com%2Fwp-content%2Fuploads%2F2012%2F04%2FTC-LOGO-WHITE.jpg&f=1&nofb=1' />
     </header>
 }
 
